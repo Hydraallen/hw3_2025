@@ -1,5 +1,16 @@
 /*Your Code Here*/
 
+/* for skip-main-content class element*/
+.skip a {
+    position: absolute;
+    top: -100px; 
+}
+
+.skip a:focus {
+    top: 0; 
+}
+
+
 /*Write selector/rule property to add your border when
 links in the navigation are in the hover or focus state.*/
 
@@ -22,24 +33,23 @@ links in the navigation are in the hover or focus state.*/
 /* Steps 6 and 7: Write the selector/rule properties to  place the next five elements in the next
  five rows in the grid. */
 
-      /*This will be a lot of rules.... but be strategic and combine selectors*/
+/*This will be a lot of rules.... but be strategic and combine selectors*/
 
 
- /* Step 8: Write the selector/rule property to style the .text-block class. */
+/* Step 8: Write the selector/rule property to style the .text-block class. */
 
 
 /* Add your media query here */
 
 
-  /* Step 10: Write the selector/rule property to style the nav element */
-
- 
-  /* Step 11: Write the selector/rule property to update the .container class */
+/* Step 10: Write the selector/rule property to style the nav element */
 
 
-  /* Steps 12 - 15: Update the grid-column property of the grid's children (where-needed)*/
+/* Step 11: Write the selector/rule property to update the .container class */
+
+
+/* Steps 12 - 15: Update the grid-column property of the grid's children (where-needed)*/
 
 
 
- /* Step 16:Write the selector/rule property to update the .text-block class */
-
+/* Step 16:Write the selector/rule property to update the .text-block class */
